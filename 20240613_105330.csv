@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+AAA1,Chrome 125.0.0.0,,,13-06-2024 10:53:39,13-06-2024 10:57:11,3m - 32.128s,FAILED
+,,,,,,,
+Test Cases/circular bieas,Chrome 125.0.0.0,,,13-06-2024 10:56:18,13-06-2024 10:57:11,52.891s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 10:56:18,13-06-2024 10:56:19,0.986s,PASSED
+"navigateToUrl(""https://bieap.apcfss.in/ErrorPageRedirection.do"")",Chrome 125.0.0.0,,,13-06-2024 10:56:19,13-06-2024 10:56:25,5.770s,PASSED
+"doubleClick(findTestObject(""Object Repository/student/Page_BIE  Board of Intermediate Education, AP/a_Students""))",Chrome 125.0.0.0,,,13-06-2024 10:56:25,13-06-2024 10:56:25,0.486s,PASSED
+"doubleClick(findTestObject(""Object Repository/student/Page_BIE  Board of Intermediate Education, AP/a_Students""))",Chrome 125.0.0.0,,,13-06-2024 10:56:25,13-06-2024 10:56:25,0.389s,PASSED
+"click(findTestObject(""Object Repository/student/Page_BIE  Board of Intermediate Education, AP/button_Click Here to Go To Home Page""))",Chrome 125.0.0.0,,,13-06-2024 10:56:25,13-06-2024 10:56:29,3.020s,PASSED
+"doubleClick(findTestObject(""Object Repository/student/Page_BIE  Board of Intermediate Education, AP/a_Students""))",Chrome 125.0.0.0,,,13-06-2024 10:56:29,13-06-2024 10:56:29,0.424s,PASSED
+"click(findTestObject(""Object Repository/student/Page_BIE  Board of Intermediate Education, AP/a_I.P.E Recounting(RC)  Reverification(RV) Results""))",Chrome 125.0.0.0,,,13-06-2024 10:56:29,13-06-2024 10:56:29,0.331s,PASSED
+"click(findTestObject(""Object Repository/student/Page_BIE  Board of Intermediate Education, AP/a_Download I.P.A.S.E Theory Hall Tickets May 2024""))",Chrome 125.0.0.0,,,13-06-2024 10:56:29,13-06-2024 10:56:31,1.430s,PASSED
+"click(findTestObject(""Object Repository/student/Page_BIE  Board of Intermediate Education, AP/a_BIE Affiliation 2023-24""))",Chrome 125.0.0.0,,,13-06-2024 10:56:31,13-06-2024 10:56:33,1.996s,PASSED
+"switchToWindowTitle(""BIE Affiliation"")",Chrome 125.0.0.0,,,13-06-2024 10:56:33,13-06-2024 10:56:36,2.973s,PASSED
+"click(findTestObject(""Object Repository/student/Page_BIE Affiliation/div_About BIE Affiliations                 _ed5770""))",Chrome 125.0.0.0,,,13-06-2024 10:56:36,13-06-2024 10:56:36,0.325s,PASSED
+"click(findTestObject(""Object Repository/student/Page_BIE Affiliation/body_BOARD OF INTERMEDIATE EDUCATIONAndhra _93a69c""))",Chrome 125.0.0.0,,,13-06-2024 10:56:36,13-06-2024 10:56:36,0.338s,PASSED
+"click(findTestObject(""Object Repository/student/Page_BIE Affiliation/a_BIE AP""))",Chrome 125.0.0.0,,,13-06-2024 10:56:36,13-06-2024 10:56:37,0.314s,PASSED
+"switchToWindowTitle(""BIE | Board of Intermediate Education, AP"")",Chrome 125.0.0.0,,,13-06-2024 10:56:37,13-06-2024 10:56:37,0.061s,PASSED
+"click(findTestObject(""Object Repository/student/Page_BIE  Board of Intermediate Education, AP/h4_STUDENTS""))",Chrome 125.0.0.0,,,13-06-2024 10:56:37,13-06-2024 10:56:37,0.306s,PASSED
+"doubleClick(findTestObject(""Object Repository/student/Page_BIE  Board of Intermediate Education, AP/p_The candidate who has passed the qualifyi_3ccd7a""))",Chrome 125.0.0.0,,,13-06-2024 10:56:37,13-06-2024 10:56:39,2.225s,PASSED
+"click(findTestObject(""Object Repository/student/Page_BIE  Board of Intermediate Education, AP/h4_Name Correction""))",Chrome 125.0.0.0,,,13-06-2024 10:56:39,13-06-2024 10:57:11,31.495s,FAILED
